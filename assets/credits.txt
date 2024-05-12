@@ -1,0 +1,29 @@
+-----------------------------Sprites--------------------------------
+
+Food
+https://henrysoftware.itch.io/pixel-food
+
+Chests
+https://admurin.itch.io/free-chest-animations
+
+UI and Font
+https://0x72.itch.io/dungeonui
+
+Artefact
+https://freekins.itch.io/gold-coin
+
+Dungeon
+https://hellorumin.itch.io/dungeon-fantasy-tileset
+
+Character
+On map: https://admurin.itch.io/free-monster-pack-character
+During fight: https://aamatniekss.itch.io/fantasy-knight-free-pixelart-animated-character
+
+Enemy
+https://luizmelo.itch.io/monsters-creatures-fantasy
+
+Background images
+https://vgdr.itch.io/dungeon-background-pack
+
+Staiars (modified)
+https://0x72.itch.io/dungeontileset-ii
