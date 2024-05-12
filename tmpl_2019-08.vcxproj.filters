@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="surface.cpp">
+      <Filter>template code</Filter>
+    </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>template code</Filter>
+    </ClCompile>
+    <ClCompile Include="fightscene.cpp">
+      <Filter>Fighting</Filter>
+    </ClCompile>
+    <ClCompile Include="statswindow.cpp">
+      <Filter>Fighting</Filter>
+    </ClCompile>
+    <ClCompile Include="chest.cpp">
+      <Filter>Exploring</Filter>
+    </ClCompile>
+    <ClCompile Include="door.cpp">
+      <Filter>Exploring</Filter>
+    </ClCompile>
+    <ClCompile Include="food.cpp">
+      <Filter>Exploring</Filter>
+    </ClCompile>
+    <ClCompile Include="item.cpp">
+      <Filter>Exploring</Filter>
+    </ClCompile>
+    <ClCompile Include="level.cpp">
+      <Filter>Exploring</Filter>
+    </ClCompile>
+    <ClCompile Include="map.cpp">
+      <Filter>Exploring</Filter>
+    </ClCompile>
+    <ClCompile Include="stairs.cpp">
+      <Filter>Exploring</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>MenuScreens</Filter>
+    </ClCompile>
+    <ClCompile Include="endscreens.cpp">
+      <Filter>MenuScreens</Filter>
+    </ClCompile>
+    <ClCompile Include="timer.cpp">
+      <Filter>Fighting</Filter>
+    </ClCompile>
+    <ClCompile Include="animator.cpp">
+      <Filter>Fighting</Filter>
+    </ClCompile>
+    <ClCompile Include="healthbar.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="button.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="creature.cpp">
+      <Filter>Creatures</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>Creatures</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>Creatures</Filter>
+    </ClCompile>
+    <ClCompile Include="artifact.cpp">
+      <Filter>Exploring</Filter>
+    </ClCompile>
+    <ClCompile Include="instructionscreen.cpp">
+      <Filter>MenuScreens</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="game.h" />
+    <ClInclude Include="surface.h">
+      <Filter>template code</Filter>
+    </ClInclude>
+    <ClInclude Include="template.h">
+      <Filter>template code</Filter>
+    </ClInclude>
+    <ClInclude Include="fightscene.h">
+      <Filter>Fighting</Filter>
+    </ClInclude>
+    <ClInclude Include="statswindow.h">
+      <Filter>Fighting</Filter>
+    </ClInclude>
+    <ClInclude Include="chest.h">
+      <Filter>Exploring</Filter>
+    </ClInclude>
+    <ClInclude Include="door.h">
+      <Filter>Exploring</Filter>
+    </ClInclude>
+    <ClInclude Include="food.h">
+      <Filter>Exploring</Filter>
+    </ClInclude>
+    <ClInclude Include="item.h">
+      <Filter>Exploring</Filter>
+    </ClInclude>
+    <ClInclude Include="level.h">
+      <Filter>Exploring</Filter>
+    </ClInclude>
+    <ClInclude Include="map.h">
+      <Filter>Exploring</Filter>
+    </ClInclude>
+    <ClInclude Include="stairs.h">
+      <Filter>Exploring</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>MenuScreens</Filter>
+    </ClInclude>
+    <ClInclude Include="endscreens.h">
+      <Filter>MenuScreens</Filter>
+    </ClInclude>
+    <ClInclude Include="timer.h">
+      <Filter>Fighting</Filter>
+    </ClInclude>
+    <ClInclude Include="animator.h">
+      <Filter>Fighting</Filter>
+    </ClInclude>
+    <ClInclude Include="healthbar.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="button.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="creature.h">
+      <Filter>Creatures</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>Creatures</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>Creatures</Filter>
+    </ClInclude>
+    <ClInclude Include="artifact.h">
+      <Filter>Exploring</Filter>
+    </ClInclude>
+    <ClInclude Include="instructionscreen.h">
+      <Filter>MenuScreens</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="template code">
+      <UniqueIdentifier>{bf32dd6e-4be7-4889-8ac6-49e7ee163c40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fighting">
+      <UniqueIdentifier>{a715dc01-ee57-4e91-8cfc-f73808fcc2b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exploring">
+      <UniqueIdentifier>{b6d19430-1a05-47e0-be20-7eb5d5a2df23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MenuScreens">
+      <UniqueIdentifier>{f0cf1d38-b9da-435f-9681-9d735c6f696d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{ed867b00-3796-4f5e-b6d9-206dd00cd5d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Creatures">
+      <UniqueIdentifier>{165809d4-faf7-46ef-9010-c4c376ddc476}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="_readme.txt">
+      <Filter>template code</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
